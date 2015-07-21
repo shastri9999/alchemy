@@ -4,9 +4,11 @@
   "description": "Script to find all alchemy elements",
   "main": "alchemy.js",
   "dependencies": {
+    "bluebird": "^2.9.34",
     "jquery": "^2.1.4",
     "jsdom": "^3.1.2",
-    "node-curl": "^0.3.3"
+    "node-curl": "^0.3.3",
+    "progress": "^1.1.8"
   },
   "devDependencies": {},
   "scripts": {
