@@ -1,0 +1,29 @@
+{
+  "name": "alchemy",
+  "version": "1.0.0",
+  "description": "Script to find all alchemy elements",
+  "main": "alchemy.js",
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "jsdom": "^3.1.2",
+    "node-curl": "^0.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shastri9999/alchemy.git"
+  },
+  "keywords": [
+    "little",
+    "alchemy"
+  ],
+  "author": "Subramanyam S",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shastri9999/alchemy/issues"
+  },
+  "homepage": "https://github.com/shastri9999/alchemy"
+}
